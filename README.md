@@ -11,3 +11,5 @@ Locha
 
 # Added from GUI
 Nhola
+
+> Note: version 2 will be a way better
